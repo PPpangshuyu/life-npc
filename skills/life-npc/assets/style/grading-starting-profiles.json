@@ -1,0 +1,153 @@
+{
+  "description": "复古暖灰系列的可选后期调色起点。用于过艳的源片；按当前人物和场景光照检查，不重复套到符合目标的画面。",
+  "profiles": {
+    "daylight": {
+      "saturation": 0.9,
+      "hue_adjustments": [
+        {
+          "center": 218,
+          "width": 65,
+          "multiplier": 0.77
+        },
+        {
+          "center": 286,
+          "width": 38,
+          "multiplier": 0.92
+        },
+        {
+          "center": 110,
+          "width": 45,
+          "multiplier": 0.92
+        }
+      ],
+      "tone_curve": [
+        [
+          0,
+          0.012
+        ],
+        [
+          0.1,
+          0.108
+        ],
+        [
+          0.3,
+          0.295
+        ],
+        [
+          0.6,
+          0.575
+        ],
+        [
+          0.8,
+          0.761
+        ],
+        [
+          1,
+          0.95
+        ]
+      ],
+      "midtone_rgb_offset": [
+        0.002,
+        0.001,
+        -0.003
+      ]
+    },
+    "office": {
+      "saturation": 0.95,
+      "hue_adjustments": [
+        {
+          "center": 286,
+          "width": 40,
+          "multiplier": 0.79
+        },
+        {
+          "center": 218,
+          "width": 55,
+          "multiplier": 0.92
+        }
+      ],
+      "tone_curve": [
+        [
+          0,
+          0.008
+        ],
+        [
+          0.1,
+          0.103
+        ],
+        [
+          0.3,
+          0.3
+        ],
+        [
+          0.6,
+          0.59
+        ],
+        [
+          0.8,
+          0.78
+        ],
+        [
+          1,
+          0.965
+        ]
+      ],
+      "midtone_rgb_offset": [
+        0.001,
+        0.001,
+        -0.002
+      ]
+    },
+    "dusk": {
+      "saturation": 0.88,
+      "hue_adjustments": [
+        {
+          "center": 285,
+          "width": 45,
+          "multiplier": 0.69
+        },
+        {
+          "center": 225,
+          "width": 55,
+          "multiplier": 0.84
+        },
+        {
+          "center": 110,
+          "width": 40,
+          "multiplier": 0.94
+        }
+      ],
+      "tone_curve": [
+        [
+          0,
+          0.012
+        ],
+        [
+          0.1,
+          0.105
+        ],
+        [
+          0.3,
+          0.3
+        ],
+        [
+          0.6,
+          0.585
+        ],
+        [
+          0.8,
+          0.765
+        ],
+        [
+          1,
+          0.95
+        ]
+      ],
+      "midtone_rgb_offset": [
+        0.002,
+        0.001,
+        -0.002
+      ]
+    }
+  }
+}
