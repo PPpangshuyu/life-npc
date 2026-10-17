@@ -1,0 +1,83 @@
+{
+  "version": "0.1.0",
+  "project": "life-npc",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "feccbeacd54b91d296f99145c45bd6446fc4c88e6f5aab25274af5c947a00681"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "581d8a0967022b87151e1b2c6d8fbaa3e33668e5b786cad28d411ebeafc9fdf0"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6a5bee8bfeb46c7b1cc5c2d5d708ab5818c3676ca6834c716037b5dc58b1d502"
+    },
+    {
+      "path": "plugin.json",
+      "sha256": "c722142029cc0afbfe9129a2eb3175dea3693d8460d4b63ce2e9f9b633371915"
+    },
+    {
+      "path": "skills/life-npc/SKILL.md",
+      "sha256": "704f0715e5452671992bcd8485bdd5035a0012bfd8bd3a415322438e065c6c7c"
+    },
+    {
+      "path": "skills/life-npc/agents/openai.yaml",
+      "sha256": "46c4f6616006f0919d99903ab552d15dc1f53d22bc6cf788715c9b39abae94d4"
+    },
+    {
+      "path": "skills/life-npc/assets/style/color-look.json",
+      "sha256": "504235a7e05b52a51e8ecadde350f5bb61130d69345b82d7161c820a1e558a59"
+    },
+    {
+      "path": "skills/life-npc/assets/style/grading-starting-profiles.json",
+      "sha256": "6cfd39ae8f726278ca84aead7ddbc88ccd54164217bf1e7c8442d0e187b80811"
+    },
+    {
+      "path": "skills/life-npc/references/fast-production.md",
+      "sha256": "f10ac6e725fbd26d48a1e5e497910f746bd9a727996e3ded18a7d87fb335c94e"
+    },
+    {
+      "path": "skills/life-npc/references/identity-onboarding.md",
+      "sha256": "24c5e643f268b8d2fc4c6124fd9d659115092d7d2600b480000b4aba1101c655"
+    },
+    {
+      "path": "skills/life-npc/references/production.md",
+      "sha256": "8f7ca869558d62fa026d0cb9aa1f89b6b57e37259c9c3aea153bdf98d21b9b6e"
+    },
+    {
+      "path": "skills/life-npc/scripts/add_mood_overlay.py",
+      "sha256": "d69fff5d6d0d9090d145d78b6940dbd0ba4c310589a9322ff9d5ede45fcd89b6"
+    },
+    {
+      "path": "skills/life-npc/scripts/grade_video.py",
+      "sha256": "6a602e4ba5c5d855c9adb52da764e18c761c3a8012e8eefb4f021615e692928e"
+    },
+    {
+      "path": "skills/life-npc/scripts/inspect_video.py",
+      "sha256": "77b94c3ac47c4207c5e347c2967091c0775e41c2d6d44d70e7f7f0530784928c"
+    },
+    {
+      "path": "skills/life-npc/scripts/render_layered_poses.py",
+      "sha256": "54a36f51275e11ae8d930de9ccdb0fe82e88cb5ff55bac4216d00aedd1e0c4ea"
+    },
+    {
+      "path": "skills/life-npc/scripts/render_local_motion.py",
+      "sha256": "19b7240f4f56e95143e8a1a884651c1515ab53dcdc1f0ac5d4bde217f1031065"
+    },
+    {
+      "path": "skills/life-npc/scripts/render_skeletal_walk.py",
+      "sha256": "4211692c317ee95024226e9a5b8960e9fa915202137c58881bc6a8616feddd53"
+    },
+    {
+      "path": "skills/life-npc/scripts/requirements.txt",
+      "sha256": "4a1eedb45fba8fc26acd6a134c0a8678c69883ab08fd65e46f55fb97e1aa709a"
+    },
+    {
+      "path": "skills/life-npc/scripts/resolve_runtime.py",
+      "sha256": "fe40a5462d56921116953ab70bcbaa5e4fe6a6e7a738090e195084597527b5c2"
+    }
+  ],
+  "private_media_included": false
+}

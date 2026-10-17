@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "life-npc",
+  "version": "0.1.0",
+  "description": "Create a confirmed personal low-poly character, then deliver one complete video for each scene photo and action/mood description."
+}
